@@ -1,0 +1,11 @@
+Destination ID: 488
+
+Integration: 1986
+
+select count(*), status
+from sink_consumers_redshift_file_details
+where destination_id = 488
+  and table_name = 'genesis__applications__c'
+group by status;
+
+Latest Postion : Position: Oct 22, 2019 21:00:10 IST
