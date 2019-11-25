@@ -1,0 +1,47 @@
+agentx-development-1zhjj.mongodb.net
+agentxdevelopment
+
+
+27017
+
+
+Host: agentx-devlopment-1zhjj.mongodb.net
+
+DB User: agentxdevelopment
+
+Pass: d4YmkocsHhyaUe8U
+
+
+
+mongo "mongodb+srv://agentx-devlopment-1zhjj.mongodb.net/"
+
+
+agentxdev-shard-00-02-1zhjj.mongodb.net:27017
+
+agentxdev-shard-00-00-1zhjj.mongodb.net:27017
+
+agentxdev-shard-00-01-1zhjj.mongodb.net:27017
+
+agentx-devlopment-1zhjj.mongodb.net
+
+
+mongodb+srv://agentxdevelopment:d4YmkocsHhyaUe8U@agentxdev-1zhjj.mongodb.net/test
+
+
+
+agentxdev-shard-00-02-1zhjj.mongodb.net,agentxdev-shard-00-00-1zhjj.mongodb.net,agentxdev-shard-00-01-1zhjj.mongodb.net
+
+
+mongodb+srv://server.example.com/?connectTimeoutMS=300000&authSource=aDifferentAuthDB
+
+
+/* 1 */
+[
+    {
+        "role" : "atlasAdmin",
+        "db" : "admin"
+    }
+]
+
+
+mongodb+srv://agentxdevelopment:d4YmkocsHhyaUe8U@agentx-devlopment-1zhjj.mongodb.net/test
